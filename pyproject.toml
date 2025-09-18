@@ -1,0 +1,23 @@
+[project]
+name = "taxis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "contextily>=1.6.2",
+    "dateparser>=1.2.2",
+    "folium>=0.20.0",
+    "geopandas>=1.1.1",
+    "geopy>=2.4.1",
+    "jupyterlab>=4.4.6",
+    "mapclassify>=2.10.0",
+    "matplotlib>=3.10.5",
+    "networkx>=3.5",
+    "numpy>=2.3.2",
+    "openrouteservice>=2.3.3",
+    "osmium>=4.1.1",
+    "osmnx>=2.0.6",
+    "pandas>=2.3.2",
+    "seaborn>=0.13.2",
+]
